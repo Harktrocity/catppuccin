@@ -1,20 +1,3 @@
-<h3 align="center">
-	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/logos/exports/1544x1544_circle.png" width="100" alt="Logo"/><br/>
-	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px"/>
-	Catppuccin for <a href="https://github.com/vim/vim">Vim</a>
-	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px"/>
-</h3>
-
-<p align="center">
-    <a href="https://github.com/catppuccin/vim/stargazers"><img src="https://img.shields.io/github/stars/catppuccin/vim?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
-    <a href="https://github.com/catppuccin/vim/issues"><img src="https://img.shields.io/github/issues/catppuccin/vim?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
-    <a href="https://github.com/catppuccin/vim/contributors"><img src="https://img.shields.io/github/contributors/catppuccin/vim?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/catppuccin/vim/main/assets/demo.png"/>
-</p>
-
 ## Usage
 
 ### Manually
@@ -25,7 +8,7 @@
 
 ### Vim-Plug
 ```
-Plug 'catppuccin/vim', { 'as': 'catppuccin' }
+Plug 'Harktrocity/catppuccin'
 ```
 
 ### Setting up Vim
