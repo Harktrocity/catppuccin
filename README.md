@@ -3,8 +3,8 @@
 ### Manually
 
 1. Clone this repository
-2. Put the `colors` folder inside your `.vim` (or if the `colors` folder already exists, move all the catppuccin palettes inside it)
-3. When Vim is running use `:colorscheme catppuccin_` followed by the flavor name (e.g. `:colorscheme catppuccin_mocha`)
+2. Put the `colors` folder inside your `.vim` (or if the `colors` folder already exists, move the catppuccin palette inside it)
+3. When Vim is running use `:colorscheme catppuccin`
 
 ### Vim-Plug
 ```
